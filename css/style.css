@@ -172,7 +172,7 @@ padding: 15px 0;
  /* customers*/
 #customers{
 padding: 5rem 0;
-
+overflow: hidden;
 }
 
 #customers .carousel-indicators li{
@@ -218,7 +218,7 @@ background-color: #be2835;
 
 /* contact */
 
-#pricing{
+#contact{
     padding: 5rem 0;
 }
 
